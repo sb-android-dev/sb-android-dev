@@ -20,9 +20,22 @@
 ### 🚀 My Motto
 "Ship it before it's perfect, and make it perfect after shipping." - Code with passion, iterate with purpose.
 
+<!--
 ### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sb-android-dev&show_icons=true&hide=prs&theme=radical)](https://github.com/sb-android-dev)
+-->
 
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://in.linkedin.com/in/smit-bhanvadia)
+- 📚 [Stackoverflow](https://stackoverflow.com/users/8752580/smit-bhanvadia)
+
+### 🌈 Fun Fact
+I believe in the magical power of `git commit -m "Initial Commit"`.
+
+### 🎯 Goals
+To create apps that not only solve problems but also bring smiles. Let's collaborate and build something awesome together!
+
+Happy Coding! 🚀
 
 <!--
 **sb-android-dev/sb-android-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
